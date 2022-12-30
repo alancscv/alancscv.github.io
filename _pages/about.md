@@ -63,6 +63,9 @@ Exploiting Temporal Consistency in Visual Object Tracking
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2023</div><img src='images/tcptrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 Self-supervised Super-plane for Neural 3D Reconstruction
 **Botao Ye**, Sifei Liu, Xueting Li, Ming-Hsuan Yang
 
