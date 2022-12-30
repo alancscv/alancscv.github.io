@@ -57,16 +57,18 @@ Qing Lian, **Botao Ye**, Ruijia Xu, Weilong Yao, Tong Zhang
 <div class='paper-box-text' markdown="1">
 
 Exploiting Temporal Consistency in Visual Object Tracking
+
 **Botao Ye**, Hong Chang, Bingpeng MA, Dashan Gao, Jiancheng Lyu, Shuai Zhang, Shiguang Shan
 
 - Explored temporal consistency in visual object. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2023</div><img src='images/tcptrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2023</div><img src='images/super_plane.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Self-supervised Super-plane for Neural 3D Reconstruction
+
 **Botao Ye**, Sifei Liu, Xueting Li, Ming-Hsuan Yang
 
 - Proposed a self-supervised super-plane constraint for neural implicit 3D reconstruction
