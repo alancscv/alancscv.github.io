@@ -56,11 +56,17 @@ Qing Lian, **Botao Ye**, Ruijia Xu, Weilong Yao, Tong Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIP</div><img src='images/tcptrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploiting Temporal Consistency in Visual Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/papers/Lian_Exploring_Geometric_Consistency_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf)
-
+Exploiting Temporal Consistency in Visual Object Tracking
 **Botao Ye**, Hong Chang, Bingpeng MA, Dashan Gao, Jiancheng Lyu, Shuai Zhang, Shiguang Shan
 
 - Explored temporal consistency in visual object. 
+</div>
+</div>
+
+Self-supervised Super-plane for Neural 3D Reconstruction
+**Botao Ye**, Sifei Liu, Xueting Li, Ming-Hsuan Yang
+
+- Proposed a self-supervised super-plane constraint for neural implicit 3D reconstruction
 </div>
 </div>
 
@@ -82,8 +88,11 @@ One-Stream Tracker with Online Template Updating
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Graduates Award of Zhejiang University
+- Zhejiang Provincial Government Scholarship
+- Annual Outstanding Students of Zhejiang University
+- The Second Prize Scholarship, Zhejiang University
+- The Third Prize Scholarship, Zhejiang University 
  
  
 # 📖 Educations
