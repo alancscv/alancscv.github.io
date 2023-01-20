@@ -64,7 +64,7 @@ Exploiting Temporal Consistency in Visual Object Tracking
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2023</div><img src='images/super_plane.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2023</div><img src='images/super_plane.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Self-supervised Super-plane for Neural 3D Reconstruction
@@ -73,7 +73,7 @@ Self-supervised Super-plane for Neural 3D Reconstruction
 
 - Proposed a self-supervised super-plane constraint for neural implicit 3D reconstruction
 </div>
-</div>
+</div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
  
