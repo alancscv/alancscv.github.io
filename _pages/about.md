@@ -23,7 +23,7 @@ My research interest includes computer vision.
 
 
 # 🔥 News
-- *2023.02*: &nbsp;🎉🎉 One paper accepeted by CVPR 2023. 
+- *2023.02*: &nbsp;🎉🎉 One paper accepted by CVPR 2023. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
  
@@ -40,12 +40,9 @@ My research interest includes computer vision.
 - Proposed an one-stream tracking framework. 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/mono3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to CVPR 2023</div><img src='images/super_plane.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/super_plane.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Self-supervised Super-plane for Neural 3D Reconstruction
@@ -56,6 +53,9 @@ Self-supervised Super-plane for Neural 3D Reconstruction
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/mono3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Exploring Geometric Consistency for Monocular 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Lian_Exploring_Geometric_Consistency_for_Monocular_3D_Object_Detection_CVPR_2022_paper.pdf)
 
 Qing Lian, **Botao Ye**, Ruijia Xu, Weilong Yao, Tong Zhang
